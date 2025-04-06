@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462224924983",
+    "project_id": "bracesdiary-cb94e",
+    "storage_bucket": "bracesdiary-cb94e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462224924983:android:52a31a85644ca1ab633ab2",
+        "android_client_info": {
+          "package_name": "com.example.bracesdiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH30FORG5vAisr3m26SWgS7NTmq771CiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
